@@ -1,4 +1,4 @@
-Lista de Comandos Git Aprendidos:
+LisLista BÁSICA de Comandos Git Aprendidos:
 git init - Inicializa um repositório 
 Gitgit clone - Clona um repositório
 remotogit add - Adiciona arquivos à área de staging
