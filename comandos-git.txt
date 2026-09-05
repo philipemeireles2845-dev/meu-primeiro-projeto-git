@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-Lista de Comandos Git Aprendidos:git init - Inicializa um repositório 
+Lista de Comandos Git Aprendidos:
+git init - Inicializa um repositório 
 Gitgit clone - Clona um repositório
 remotogit add - Adiciona arquivos à área de 
 staginggit commit - Confirma as alterações no repositório 
@@ -7,11 +7,5 @@ localgit status - Mostra o status dos arquivos
 git branch - Lista branches ou cria uma nova 
 branchgit checkout - Muda para outra branch
 git push origin <branch> - Envia branch para o repositório remoto
-=======
-Lista de Comandos Git Aprendidos:
-git init - Inicializa um repositório 
-Gitgit clone - Clona um repositório
-remotogit add - Adiciona arquivos à área de staging
-git commit - Confirma as alterações no repositório 
-localgit status - Mostra o status dos arquivos. 
->>>>>>> nova-funcionalidade
+
+
